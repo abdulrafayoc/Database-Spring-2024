@@ -1,0 +1,11 @@
+C:\Users\adeel\source\repos\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\adeel\source\repos\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\adeel\source\repos\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.Form1.resources
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\adeel\source\repos\Lab05\Lab05\obj\Debug\Lab05.pdb

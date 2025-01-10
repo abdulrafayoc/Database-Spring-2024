@@ -7,11 +7,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01464ce2-c1d4-416a-9454-d936ae490899" name="Changes" comment="" />
+    <list default="true" id="01464ce2-c1d4-416a-9454-d936ae490899" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab 04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab 04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/bin/Debug/net8.0/Lab.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/bin/Debug/net8.0/Lab.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/bin/Debug/net8.0/Lab.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/bin/Debug/net8.0/Lab.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/bin/Debug/net8.0/Lab.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/bin/Debug/net8.0/Lab.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/Lab.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/ref/Lab.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/ref/Lab.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/refint/Lab.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Debug/net8.0/refint/Lab.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/Lab.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/Lab.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -27,6 +52,7 @@
     ".NET Project.Lab.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,6 +100,7 @@
       <workItem from="1707811700054" duration="272000" />
       <workItem from="1707812021094" duration="29000" />
       <workItem from="1707812085061" duration="4447000" />
+      <workItem from="1708416299739" duration="644000" />
     </task>
     <servers />
   </component>

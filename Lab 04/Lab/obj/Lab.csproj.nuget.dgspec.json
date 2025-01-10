@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Lab 04\\Lab\\Lab.csproj": {}
+    "C:\\Users\\hp\\Documents\\FAST-NUCES\\SPRING-2024\\Database\\Lab 04\\Lab\\Lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Lab 04\\Lab\\Lab.csproj": {
+    "C:\\Users\\hp\\Documents\\FAST-NUCES\\SPRING-2024\\Database\\Lab 04\\Lab\\Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Lab 04\\Lab\\Lab.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\FAST-NUCES\\SPRING-2024\\Database\\Lab 04\\Lab\\Lab.csproj",
         "projectName": "Lab",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Lab 04\\Lab\\Lab.csproj",
+        "projectPath": "C:\\Users\\hp\\Documents\\FAST-NUCES\\SPRING-2024\\Database\\Lab 04\\Lab\\Lab.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Lab 04\\Lab\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\FAST-NUCES\\SPRING-2024\\Database\\Lab 04\\Lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
